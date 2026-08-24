@@ -150,3 +150,7 @@ This project is currently finalized as part of a phase 1 submission. Feel free t
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+##Developed By 
+Swastika Dey
+VIT Bhopal
